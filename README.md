@@ -1,11 +1,11 @@
 
 # Just Notes 
-<p align="center">
+<p align="left">
 <br/>
 <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Poppins&duration=500&pause=1000&width=450&size=35&color='fff'&lines=Aspire;+Inspire;+Transpire;+With+Just+Notes.;" alt="Typing SVG" /></a> 
 </p>
 
-<div align="center">
+<div align="left">
     <img 
         src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
         alt="react" 

@@ -13,7 +13,7 @@ app.set("trust proxy", true);
 const port = process.env.PORT || 3001
 
 const CORSConfig = {
-    origin: ['http://localhost:5173', 'https://justnotesweb.onrender.com']
+    origin: ['http://localhost:5173', 'https://justnotesweb.onrender.com'],
     methods: ['GET', 'POST', 'PUT', 'DELETE']
 }
 

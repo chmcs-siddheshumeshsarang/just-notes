@@ -1,4 +1,13 @@
-# Just Notes
+<table border="0" cellpadding="0" cellspacing="0" >
+  <tr>
+    <td style="border:none; padding: 0 15px 0 0;">
+      <img height="50" width="50" src="/frontend/public/1772986268607-removebg-preview.png" />
+    </td>
+    <td style="border:none; vertical-align: top;">
+      <h1 style="margin: 0; padding: 0;">Just Notes</h1>
+    </td>
+  </tr>
+</table>
 
 <p align="left">
 <br/>
